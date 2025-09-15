@@ -1,75 +1,104 @@
 # Sales & Profit Analysis Dashboard (Power BI)
 
-## 📊 Project Overview
-This project presents a **Sales & Profit Analysis Dashboard** built using **Power BI** for Awesome Chocolates.  
-It provides insights into sales, costs, profit, shipments, and product performance across different regions.  
+![POWER BI DASHBOARD](https://github.com/user-attachments/assets/2d17e89b-4032-4189-b46f-8b4c9fea4889)
 
-The dashboard enables stakeholders to:
-- Track **overall sales performance** and profitability trends.  
-- Analyze **product-wise sales & profit contribution**.  
-- Visualize **shipments and distribution by boxes**.  
-- Identify **high-performing and low-performing products**.  
+## 📌 Introduction
+This **Sales & Profit Analysis Dashboard** was created using **Power BI** to analyze the performance of *Awesome Chocolates*.  
+The dashboard provides insights into **sales, costs, profit, shipments, and product performance** across different regions.  
 
----
-
-## ⚙️ Features
-- **KPIs**: Sales, Costs, Profit, Shipments, Boxes.  
-- **Trend Analysis**: Monthly sales growth and decline.  
-- **Profitability Insights**: Profit %, LBS %, and product performance.  
-- **Interactive Visuals**: Line charts, bar charts, cards, and gauges.  
-- **Product & Region Analysis**: Compare product categories and country-wise performance.  
+It is designed to help stakeholders:
+- Monitor overall **business performance**  
+- Track **key financial metrics (KPIs)**  
+- Identify **top-performing and underperforming products**  
+- Make **data-driven business decisions**  
 
 ---
 
-## 🛠️ Tech Stack
-- **Power BI Desktop** – Data visualization & dashboarding  
-- **Excel / CSV** – Source dataset  
-- **GitHub** – Project showcase & version control  
+### 📂 Dashboard File
+My final dashboard is in 👉 http://bit.ly/3Vl9ZCa
 
 ---
 
-## 📂 Project Files
-- `Sales_Profit_Dashboard.pbix` – Power BI dashboard file  
-- `/data/dataset.csv` – Sample dataset (or placeholder)  
-- `/images/dashboard_screenshot.png` – Screenshot of the dashboard  
-- `/images/dashboard_demo.gif` – Animated GIF of dashboard interaction  
+## 🎥 Dashboard Demo
+
+Here’s an interactive demo of the **Sales & Profit Analysis Dashboard** in action:  
+
+https://github.com/user-attachments/assets/d76af3e2-8eb7-49ae-b4e8-f3632315f177
+
+---
+## ⚙️ Power BI Skills Used
+The following **Power BI features** were used to design and analyze the dashboard:
+
+- **📊 Data Visualization** – Bar charts, line charts, KPIs, gauges, and cards  
+- **🧮 DAX Measures** – For calculating Profit %, LBS %, and other metrics  
+- **🔗 Data Modeling** – Creating relationships between different tables  
+- **🎨 Report Design** – Formatting visuals, filters, and slicers for interactivity  
 
 ---
 
-## 📸 Screenshots & Demo
-### Dashboard Preview
-![Dashboard Screenshot](./images/dashboard_screenshot.png)
+## 📊 Dataset
+The dataset used for this project contains **sales transaction details** of Awesome Chocolates. It includes information about:  
 
-### Interactive Demo
-![Dashboard Demo](./images/dashboard_demo.gif)
+- **🍫 Products** – Chocolate categories and items  
+- **💰 Financials** – Sales, Costs, Profit, and Profit %  
+- **📦 Shipments** – Boxes and LBS shipped  
+- **🌍 Geography** – Sales across different countries and regions  
 
----
-
-## 🚀 How to Use
-1. Download the `.pbix` file from this repo.  
-2. Open it in **Power BI Desktop**.  
-3. Explore the interactive visuals and insights.  
+*(Note: A sample dataset is provided for demonstration purposes.)*  
 
 ---
 
-## 📈 Key Insights
-- Total Sales: **$10M**  
-- Profit: **$6M** (Profit %: 61.2%)  
-- Top Product: **Peanut Butter Cubes (87.1% profit margin)**  
-- Least Performing: **50% Dark Bites (27.2% profit margin)**  
+## 📈 Dashboard Build
+
+### 🧾 Key Performance Indicators (KPIs)
+- **Total Sales, Costs, and Profit**  
+- **Profit Percentage**  
+- **Shipments (Boxes & LBS)**  
+
+### 📉 Trend Analysis – Monthly Sales
+![Dashboard Trend](./images/dashboard_demo.gif)  
+
+- 🛠️ **Power BI Features:** Line chart for tracking monthly sales performance  
+- 🎨 **Design Choice:** Clear time-based visualization of growth/decline  
+- 💡 **Insights:** Helps identify peak months and seasonal patterns  
+
+### 📦 Product Performance
+- 🛠️ **Power BI Features:** Bar charts and cards for product-level analysis  
+- 🎨 **Design Choice:** Sorted by profit margin for easy comparison  
+- 💡 **Insights:** Peanut Butter Cubes are most profitable (87.1%), while 50% Dark Bites are least profitable (27.2%)  
+
+### 🌍 Region & Country Analysis
+- 🛠️ **Power BI Features:** Map visuals for geographical performance  
+- 🎨 **Design Choice:** Color-coded regions to highlight sales variations  
+- 💡 **Insights:** Immediate visibility of regional strengths and weak markets  
+
+---
+
+## 🏆 Key Insights
+- **Total Sales:** $10M+  
+- **Total Profit:** $6M (61.2% Profit Margin)  
+- **Top Product:** Peanut Butter Cubes (87.1% margin)  
+- **Lowest Product:** 50% Dark Bites (27.2% margin)  
+- **Regional Trends:** North America leads in sales, but some regions underperform  
 
 ---
 
 ## 🔑 Skills Demonstrated
-- Data Visualization  
-- DAX Measures  
-- KPI Design  
-- Business Analysis  
-- Storytelling with Data  
+- Business Intelligence (BI) Reporting  
+- Data Cleaning & Transformation  
+- DAX Calculations & Measures  
+- Interactive Dashboard Design  
+- Business Performance Analysis  
+
+---
+
+## 📌 Conclusion
+This dashboard demonstrates how **Power BI** can be used to transform raw sales data into meaningful business insights.  
+By combining KPIs, trend analysis, and product-level breakdowns, this project enables decision-makers to quickly assess performance and identify opportunities for growth.  
 
 ---
 
 ## 🤝 Connect
 👤 **Vasanth Kumar**  
-🔗 [LinkedIn Profile](https://linkedin.com/in/vasanth-kumark)  
+🔗 [LinkedIn](https://linkedin.com/in/vasanth-kumark)  
 📧 Email: *(your email here)*  
