@@ -100,5 +100,6 @@ By combining KPIs, trend analysis, and product-level breakdowns, this project en
 
 ## 🤝 Connect
 👤 **Vasanth Kumar**  
-🔗 [LinkedIn](https://linkedin.com/in/vasanth-kumark)  
-📧 Email: *(your email here)*  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vasanth-kumark)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vasanthkumarwork.lovable.app/)
+
